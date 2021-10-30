@@ -21,7 +21,7 @@
 */
 
 
-class PDO_Connect implements PDO_Intserface{
+class PDO_Connect implements PDO_Intserface{ // Note : class name must be matched by File Class name (classname => PDO_Connect) , (file name => PDO.class.php)
     
     // This Property Especially To Deal With The Database Connection 
     
